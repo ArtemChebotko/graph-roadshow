@@ -1,0 +1,19 @@
+genre_id,name
+g1,Action
+g2,Adventure
+g3,Animation
+g4,Comedy
+g5,Documentary
+g6,Drama
+g7,Fantasy
+g8,Film-Noir
+g9,Horror
+g10,Kids
+g11,Musical
+g12,Mystery
+g13,Romance
+g14,Sci-Fi
+g15,TV Series
+g16,Thriller
+g17,War
+g18,Western

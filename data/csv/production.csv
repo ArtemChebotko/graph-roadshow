@@ -1,0 +1,1800 @@
+movie_id,production
+m1,Paramount Pictures
+m2,Warner Bros. Pictures
+m2,Legendary Pictures
+m2,Centropolis
+m3,Metro-Goldwyn-Mayer
+m4,Walt Disney Pictures
+m4,Edgar Rice Burroughs Inc.
+m5,TriStar Pictures
+m5,Fried
+m5,Woods Films
+m5,Yorktown Productions
+m6,Focus Features
+m6,Color Force
+m6,Random House Films
+m7,Amiguetes Entertainment
+m8,Warner Bros. Pictures
+m8,Village Roadshow Pictures
+m8,Vertigo Entertainment
+m9,Producciones A.S.H. Films S.A.
+m10,Warner Bros. Pictures
+m11,Sony Pictures
+m11,Lakeshore Entertainment
+m12,20th Century Fox
+m13,Co-production UK-France-Poland-Germany; R.P. Productions
+m13,Heritage Films
+m13,Studio Babelsberg
+m13,Runteam Ltd.
+m14,Edison Manufacturing Company
+m15,Warner Bros. Pictures
+m15,Legendary Pictures
+m15,Blinding Edge Pictures
+m16,Walt Disney Productions
+m16,RKO Radio Pictures
+m17,Columbia Pictures
+m18,Warner Bros. Pictures
+m19,Co-production USA-Austria; Castle Rock Entertainment
+m19,Detour Filmproduction
+m19,Filmhaus Wien Universa Filmproduktions
+m19,Columbia Pictures Corporation
+m20,Warner Bros.
+m21,Miramax International
+m21,Alliance Atlantis
+m22,Universal Pictures
+m22,Studiocanal
+m22,Working Title Films
+m23,Magnolia Pictures
+m23,2929 Productions
+m24,Polygram Film Entertainment
+m24,Channel Four Films
+m24,Working Title
+m25,Amblin Entertainment
+m25,Warner Bros. Pictures
+m26,Miramax International
+m26,Saul Zaentz production
+m27,Telecinco Cinema
+m27,Think Studio
+m28,Walt Disney Pictures
+m29,Columbia Pictures
+m29,Rastar Productions
+m30,Argosy Pictures
+m31,Dimension Films
+m32,Live Entertainment
+m32,Dog Eat Dog Productions
+m33,Twentieth Century-Fox Film Corporation
+m34,Bad Robot
+m34,Spyglass Entertainment
+m34,Paramount Pictures
+m35,Block 2 Pictures
+m35,Paradis Films
+m35,Orly Films
+m36,20th Century Fox
+m37,New Line Cinema
+m38,Akira Committlee
+m39,Summit Entertainment
+m40,Polygram Filmed Entertainment
+m40,Icon Entertainment International
+m41,Universal Pictures
+m42,Claudie Ossard
+m42,UGC
+m43,Universal Pictures
+m43,Amblin Entertainment
+m44,Columbia Pictures
+m45,Co-production UK-USA; Universal Pictures
+m45,Working Title Films
+m45,DNA Films
+m46,United Artists
+m47,Co-production Australia-UK
+m48,DreamWorks Pictures
+m48,Paramount Pictures
+m49,Warner Bros. Pictures
+m50,Universal Pictures
+m51,Universal Pictures
+m51,Lawrence Gordon
+m52,Miramax Films
+m52,Band Apart
+m52,Jersey Films
+m53,Columbia Pictures
+m53,Castle Rock Entertainment
+m54,Warner Bros
+m55,Warner Bros. Pictures
+m56,Co-production USA-UK; DreamWorks
+m56,Paramount Vantage
+m56,BBC Films
+m57,Warner Bros. Pictures
+m58,Co-production France-USA; EuropaCorp
+m58,Avalanche Productions
+m58,Apipoulaï
+m58,The Weinstein Company
+m59,Warner Bros. Pictures; Producer: Hal B. Wallis
+m60,20th Century Fox
+m61,Touchstone Pictures
+m62,The Mirisch Corporation
+m62,Metro-Goldwyn-Mayer
+m63,Toho
+m64,Miramax International presents a David Brown production
+m65,Co-production UK-USA; Metro-Goldwyn-Mayer (MGM)
+m65,Stanley Kubrick Productions
+m66,Columbia Pictures
+m66,Relativity Media
+m66,Overbrook Entertainment
+m66,Escape Artists
+m67,Co-production USA-New Zealand; Warner Bros. Pictures
+m67,MGM
+m67,New Line Cinema
+m67,WingNut Films
+m68,Polygram Filmed Entertainment presents a Propaganda Films
+m68,Baltimore Pictures production
+m69,Warner Bros. Pictures
+m70,20th Century-Fox
+m70,UTV Motion Pictures
+m70,Spyglass Entertainment
+m70,Blinding Edge Pictures
+m71,Warner Bros. Pictures
+m71,Dreamworks Pictures
+m71,Amblin Entertainment
+m71,Stanley Kubrick Production
+m72,Sony Pictures
+m73,Co-production USA-France; Les Films Alain Sarde
+m73,Asymetrical Production
+m74,Fox Searchlight Pictures
+m74,DNA Films
+m74,UK Film Council
+m75,Paramount Pictures
+m76,Warner Bros. Pictures
+m76,Legendary Pictures
+m76,Virtual Studio
+m77,Columbia Pictures
+m77,Amblin Entertainment
+m77,TriStar Pictures
+m78,Universal Pictures
+m79,Universal Pictures
+m80,Warner Bros. Pictures
+m80,Intermedia Films
+m81,Iberoamericana Films
+m81,Lolafilms
+m82,MGM
+m82,UA
+m83,Warner Bros. Pictures
+m84,MGM
+m85,United Artists
+m86,Metro-Goldwyn-Mayer (MGM)
+m87,Polygram Filmed Entertainment
+m87,Working Title
+m87,Havoc
+m88,United Artists
+m88,Lumière Pictures
+m89,Warner Bros. Pictures
+m89,Franchise Pictures
+m90,20th Century Fox
+m91,Paramount Pictures
+m91,Marvel Enterprises
+m91,Goldman & Associates
+m92,United Artists
+m93,Illumination Entertainment
+m93,Universal Pictures
+m94,Walt Disney Pictures
+m94,Lucamar Productions
+m95,Warner Bros
+m96,Co-production UK-USA-Spain-Germany; 20th Century Fox
+m96,Scott Free Production
+m97,Walt Disney
+m98,United Artists
+m99,20th Century Fox
+m99,Dreamworks Pictures
+m99,Imagemovers
+m99,Playtone
+m100,Paramount Pictures
+m100,Icon
+m101,Brynaprod S.A.
+m101,Universal International Pictures (UI)
+m102,Walt Disney Productions
+m103,Warner Bros
+m103,Ford Production
+m104,Quad Productions
+m104,Gaumont
+m104,TF1 Films
+m104,Ten Films
+m104,Chaocorp production
+m104,Canal +
+m104,Cinecinema
+m105,Gaumont
+m106,Warner Bros. Pictures
+m106,Village Roadshow Pictures
+m106,DiNovi Pictures
+m107,Columbia Pictures
+m107,Marvel Entertainment
+m107,Laura Ziskin production
+m108,ADM Films Department--DEANTIR
+m109,Samuel Goldwyn Company
+m110,20th Century Fox
+m110,Blue Sky Studios
+m110,Fox Animation Studios
+m111,Paramount Pictures
+m112,Touchstone Pictures
+m112,Mandeville Films
+m113,RKO
+m114,MGM
+m115,20th Century Fox
+m116,Coproduction USA-New Zeland; New Line Cinema
+m117,Légende Entreprises
+m118,United Artists
+m119,Co-production UK-USA; Fox Searchlight
+m119,Warner Independent
+m119,Celador Films
+m119,Film4
+m120,Channel Four Films
+m120,Film Council
+m120,Revolution Films
+m121,Co-production Czech Republic-USA; New Line
+m121,Behaviour Worldwide
+m122,Warner Bros
+m123,Warner Bros. Pictures
+m124,Dimension Films presents a Wayans Bros. Entertainment
+m124,Gold-Miller
+m124,Brad Grey Pictures production. An Alliance Atlantis Release
+m125,New Line Cinema
+m126,National General Picture
+m126,Cinema Center Films
+m127,Universal Pictures
+m128,Co-production USA-GB; Polygram Filmed Entertainment
+m128,Working Title Films
+m129,Orion Pictures
+m129,Tig Productions
+m130,Walt Disney Pictures
+m130,Jerry Bruckheimer Films
+m131,20th Century Fox
+m131,Brandywine Productions
+m132,Universal Pictures
+m132,Gold Circle Films
+m133,Revolution Studios
+m134,Columbia Pictures
+m135,Pixar Animation Studios
+m135,Walt Disney Pictures
+m136,Paramount Pictures presents a Cruise
+m136,Wagner production
+m137,Allied Artists
+m137,Solar Productions
+m138,United Artists
+m139,20th Century Fox
+m140,TriStar Pictures
+m140,Gracie Films
+m141,Warner Bros. Pictures
+m142,United Artists
+m143,Warner Bros. Pictures
+m144,Warner Bros. Pictures
+m145,Universal Pictures; Producer: Arnon Milchan
+m146,Walt Disney
+m147,20th Century Fox
+m148,New Line Cinema
+m149,Gaumont International
+m149,Gaumont
+m149,EFVE
+m149,TF1 Films Production
+m149,TPS Cinéma
+m150,Warner Bros. Pictures
+m150,Malpaso Company
+m151,Warner Bros. Pictures
+m151,Malpaso
+m152,Metro-Goldwyn-Mayer
+m153,Walt Disney Pictures
+m153,Pixar Animation Studios
+m154,Co-production USA-UK-Canada; Warner Bros. Pictures
+m154,Paramount Pictures
+m154,Legendary Pictures
+m154,DC Comics
+m154,Lawrence Gordon Productions
+m155,Lucasfilm. Distributed by 20th Century Fox
+m156,Shin Cine Communications
+m157,Warner Bros
+m157,Regency Enterprises
+m158,Metro-Goldwyn-Mayer
+m159,Columbia Pictures
+m159,Kerner Entertainment Company
+m159,Sony Pictures Animation
+m160,Co-production Spain-France; La Fabrique de Films
+m160,Morena Films
+m160,Telecinco Cinema
+m160,Vaca Films
+m161,Castle Rock Entertainment
+m161,Village Roadshow Pictures
+m162,Co-production Italy-Spain-West Germany; Constantin Film Produktion
+m162,Jolly Film
+m162,Ocean Films
+m163,Co-production Italy-Spain-West Germany; MGM release
+m163,Produzioni Europee Associati (PEA)
+m163,"Arturo González Producciones Cinematográficas, S.A"
+m163,Constantin Film Produktion
+m164,Columbia Pictures
+m165,DreamWorks Pictures
+m165,DreamWorks Animation
+m166,Gold Circle Films
+m166,HBO
+m166,MPH Entertainment
+m166,Playtone
+m166,IFC Films
+m167,Universal Pictures
+m167,Northern Lights Productions
+m168,Metro-Goldwyn-Mayer
+m169,Lolafilms
+m170,U.F.A.
+m171,David O. Selznick
+m172,Co-production USA-UK; Columbia Pictures
+m172,Inside Track 2
+m173,Great American Films Limited Partnership
+m173,Vestron Pictures
+m174,Metro-Goldwyn-Mayer
+m175,Walt Disney Pictures
+m175,Pixar Animation Studios
+m176,United Artists
+m177,Columbia Pictures
+m178,RKO Radio Pictures
+m179,Warner Bros. Pictures
+m180,Touchstone Pictures
+m181,20th Century Fox
+m181,Morgan Creek Productions
+m182,Columbia Pictures
+m182,Overbrook Entertainment
+m182,Escape Artists
+m183,Columbia Pictures
+m183,Rastar Productions
+m184,Warner Bros. Pictures
+m185,20th Century Fox
+m186,Mirage Enterprises
+m186,The Weinstein Company
+m187,Paramount Pictures release (Dino de Laurentiis presentation)
+m188,Universal Pictures
+m188,Miramax Films present a Working Title production
+m189,United Artists
+m190,Paramount Pictures
+m190,Lucasfilm
+m191,Sony
+m191,TriStar Pictures
+m191,MG Entertainment
+m191,Endgame Entertainment
+m191,FilmDistrict
+m192,Warner Bros. Pictures
+m192,Castle Rock Entertainment
+m192,Village Roadshow Pictures
+m192,Flower Hills
+m193,Pacific Western
+m193,Hemdale Film Corporation
+m194,Columbia Pictures
+m194,20th Century Fox
+m195,Columbia Pictures
+m195,Imagine Entertainment
+m196,Allied Artists
+m196,ABC Pictures
+m197,Universal Pictures
+m198,Columbia Pictures
+m199,Universal Pictures
+m199,Turman-Foster Company
+m200,Co-production Argentina-Spain; 100 Bares
+m200,Tornasol Films
+m200,Haddock Films
+m200,Telefe
+m201,Twentieth Century-Fox
+m201,Brandywine Productions
+m201,Davis Entertainment
+m201,Dune Entertainment
+m202,Sony Pictures Animation
+m203,Warner Bros. Pictures
+m203,Laskeshore Entertainment
+m203,Malpaso Productions
+m204,Miramax Films presents a Mirage Enterprises
+m204,Bona Fide productions
+m205,Touchstone Pictures
+m205,Silver Screen Partners IV
+m206,20th Century Fox
+m206,Scott Free Productions
+m206,Dune Entertainment
+m206,Brandywine Productions
+m207,Rogue Pictures
+m207,Hydraulx
+m207,Relativity Media
+m207,Transmission Pictures
+m207,Black Monday Film Services
+m207,Rat Entertainment
+m208,Warner Bros. Pictures; Producer: Jack L. Warner
+m209,Walt Disney Pictures
+m210,20th Century Fox
+m211,Dreamworks
+m211,Universal Pictures
+m211,Imagine Entertainment
+m212,Paramount Pictures
+m213,Imprint Entertainment
+m213,Summit Entertainment
+m214,Apaches Entertainment
+m214,Telecinco Cinema
+m214,Mediaset España
+m214,Canal+ España
+m214,IVAC
+m214,ICAA
+m215,Co-production GB-USA; Orion Pictures
+m215,WB
+m216,Touchstone Pictures
+m216,Jerry Bruckheimer Films
+m217,Co-production USA-Germany; The Weinstein Company
+m217,Mirage Enterprises
+m217,Neunte Babelsberg Film
+m218,Warner Bros. Pictures
+m218,Bel-Air Entertainment
+m218,TIG
+m218,Di Novi Pictures
+m219,Newmarket Film Group
+m219,Icon Productions
+m220,The Mark Gordon Company
+m220,Vendome Pictures
+m220,Vendome
+m221,Columbia Pictures
+m222,Fox 2000 Pictures
+m222,New Regency Pictures
+m222,Bedford Falls Productions
+m223,DreamWorks SKG
+m223,Pacific Data Images (PDI)
+m223,DreamWorks Animation
+m224,Cartel
+m224,Rocabruno
+m225,Paramount Pictures
+m225,Touchstone Pictures
+m226,Touchstone Pictures
+m226,Cobalt Media Group
+m226,Beacon Pictures
+m226,Tig Production
+m227,Columbia Pictures
+m227,Happy Madison Productions
+m227,Anonymous Content
+m227,Flower Films
+m228,Co-production UK-USA-Germany; Universal Pictures
+m228,Littlestar Productions
+m228,Playtone
+m229,Co-production UK-USA; Warner Bros. Pictures
+m230,Bryna Productions
+m230,Universal Pictures
+m231,Amblin Entertainment
+m231,Paramount Pictures
+m231,Sony Pictures Entertainment
+m232,20th Century Fox
+m233,20th Century Fox
+m234,Walt Disney Pictures
+m235,Warner Bros. Pictures
+m236,Universal Pictures
+m237,Tri-Star Pictures
+m238,Charles Chaplin Productions
+m238,First National Picture
+m239,Universal Pictures
+m239,Summit Entertainment
+m239,Newmarket Capital Group
+m240,Universal Pictures
+m240,Amblin Entertainment
+m240,The Harvey Entertainment Company
+m241,Paramount Pictures
+m242,Romulus Films
+m242,Warwick Film Productions
+m243,Metro-Goldwyn-Mayer (MGM)
+m244,Mexican Film Institute
+m245,Warner Bros. Pictures
+m246,Imagine Films Entertainment
+m246,Metro-Goldwyn-Mayer (MGM)
+m246,Lucasfilm
+m247,Metro-Goldwyn-Mayer
+m248,Universal International Pictures (UI)
+m249,Co-production USA-UK; DC Entertainment
+m249,Legendary PictureS
+m249,Warner Bros. Pictures
+m250,Marvel Studios
+m250,Paramount Pictures
+m251,United Artists
+m251,Ashton Productions
+m251,The Mirisch Corporation
+m252,Universal Pictures
+m253,New Line Cinema
+m254,20th Century Fox
+m254,SLM Production Group
+m254,Brooksfilms
+m255,TriStar
+m255,Touchstone Pictures
+m256,Columbia Pictures
+m257,Imagine Entertainment
+m257,Malpaso Productions
+m258,MGM
+m259,Castle Rock Entertainment
+m260,Warner Bros. Pictures
+m260,Village Roadshow
+m261,Fox Film Corporation
+m262,Incentive Filmed Entertainment
+m262,Silverwood Films
+m262,Hunting Lane Films
+m262,Chrysler Corporation
+m262,Shade Pictures
+m262,Motel Movies
+m262,Cottage Industries
+m263,Warner Bros. Pictures
+m264,MGM
+m264,Embassy Pictures
+m265,Paramount Pictures
+m265,Warner Bros. Pictures
+m266,Wild Bunch
+m266,Quat'sous Films
+m266,France 2 Cinema
+m266,Scope Pictures
+m266,Vértigo Films
+m266,RTBF
+m266,Canal +
+m266,CNC
+m267,Tim Burton Animation Co.
+m267,Walt Disney Productions
+m268,United Artists
+m269,Touchstone Pictures
+m269,Skellington Productions
+m269,Tim Burton Productions
+m270,Walt Disney Pictures
+m271,Paramount Pictures
+m272,20th Century Fox
+m273,Touchstone Pictures
+m273,Icon Productions
+m274,United Artists
+m274,Fantasy Film
+m275,20th Century Fox
+m276,Touchstone Pictures
+m277,Co-production UK-USA; Warner Bros. Pictures
+m278,Gracie Films
+m278,20th Century Fox Television
+m278,Film Roman
+m279,Walt Disney Pictures
+m279,Jerry Bruckheimer Films
+m280,Películas Pendelton
+m280,Mediapro
+m281,Polygram Filmed Entertainment
+m281,Propaganda Films
+m281,Dark Horse Entertainment
+m282,Co-production Spain-France; El Deseo S.A.
+m282,Renn Productions
+m282,France 2 Cinema
+m283,Paramount Pictures
+m284,United Artists
+m285,20th Century Fox
+m286,Co-production UK-Ireland; Universal Pictures
+m286,Hell's Kitchen Films
+m287,Co-production USA-France; Le Studio Canal+
+m287,Les Films Alain Sarde
+m287,Picture Factory & Film Four
+m288,Warner Bros
+m289,Columbia Pictures
+m290,20th Century Fox
+m291,Wiedemann
+m291,Berg Filmproduktion
+m291,Bayerischer Rundfunk
+m291,Arte
+m291,Creado Film
+m292,Co-production United Kingdom-USA; Universal Pictures
+m292,Working Title
+m293,Co-production UK-USA; Aardman Animations
+m293,DreamWorks Animation
+m294,20th Century Fox
+m295,20th Century Fox
+m295,Lucasfilm Ltd.
+m296,Columbia
+m297,Universal Pictures
+m297,Dreamworks Pictures
+m297,Scott Free Productions
+m298,Warner Bros. Pictures
+m298,Heyday Films
+m299,Sony Pictures
+m300,Co-production Spain-USA-Bolivia-France; Ariane Mararía
+m300,Arcadia Motion Pictures
+m300,Noodles Production
+m301,20th Century Fox
+m301,Icon Productions
+m301,Ladd Company
+m302,Columbia Pictures
+m303,Sony Pictures
+m303,Screen Gems
+m303,Castle Rock Entertainment
+m304,TriStar Pictures
+m304,Amblin Entertainment
+m305,Walt Disney Pictures
+m305,Walt Disney Feature Animation
+m306,Columbia Pictures
+m306,Sony Pictures Entertainment
+m307,Universal Pictures
+m307,Jersey Films
+m308,The Who Films
+m308,Polytel
+m309,Warner Independent Pictures
+m310,Walt Disney Pictures
+m311,New Line Cinema
+m312,Co-production Spain-Italy; Naga Films
+m312,Zabra Films
+m313,O2 Filmes
+m313,VideoFilmes
+m313,Globo Filmes
+m313,Wild Bunch
+m314,Co-production Hong Kong-France; Block 2 Pictures
+m314,Paradis Films
+m314,Jet Tone Production
+m315,Co-production UK-USA; Working Title Films
+m315,Universal Pictures
+m315,Studio Canal
+m315,Relativity Media
+m316,20th Century Fox
+m317,Kennedy Miller Productions
+m318,Co-production Spain-France-USA; Estudios Picasso
+m318,Origen PC
+m318,La Chauve-Souris
+m319,Walt Disney Pictures
+m320,Warner Bros. Pictures
+m321,DreamWorks Animation
+m321,DreamWorks Pictures
+m321,Pacific Data Images (PDI)
+m322,Co-production USA-UK; MGM
+m322,UA
+m323,Paramount Pictures
+m324,Walt Disney Pictures
+m325,Co-production Italy-France; Les Films Ariane
+m325,Cristaldifilm
+m325,TFI Films
+m325,RAI
+m326,Warne Bros. Pictures
+m326,Regency Enterprises
+m327,Warner Bros
+m328,20th Century Fox.
+m329,Co-production UK-USA; Warner Bros. Pictures
+m329,Heyday Films
+m329,1492 Films
+m329,Duncan Henderson
+m330,Universal Pictures
+m330,Miramax Films
+m330,Touchstone Pictures
+m330,Imagine Entertainment
+m331,Columbia Pictures
+m332,Paramount Pictures
+m333,Universal Pictures
+m334,Columbia Pictures
+m335,Walt Disney Pictures
+m336,MGM
+m337,Warner Bros. Pictures
+m338,MGM
+m339,Lionsgate Films
+m339,Relativity Media
+m339,Tree Line Films
+m340,TriStar Pictures
+m341,20th Century Fox
+m342,Uninci
+m343,Samuel Goldwyn Films
+m343,Destination Films
+m343,Icon Productions
+m344,DreamWorks SKG
+m344,Pacific Data Images (PDI)
+m344,DreamWorks Animation
+m345,Warner Bros. Pictures
+m345,Village Roadshow
+m345,Silver Pictures
+m346,Republic Pictures
+m347,VCL Licensing Gmbh
+m347,Dreamworks Pictures present a Gravier production
+m348,Paramount Pictures
+m349,Sony Pictures
+m350,Metro-Goldwyn-Mayer
+m351,Paramount Pictures
+m352,20th Century Fox
+m353,Paramount Pictures
+m353,Howard W. Koch Production
+m354,Fox Searchlight Pictures
+m354,Riverroad Entertainment
+m355,Mirage Entertainment
+m355,Universal Pictures
+m356,Warner. Bros. Pictures
+m356,Alcon Entertainment
+m356,Grosvenor Park Productions
+m356,Wendy Finerman Productions
+m357,United Artists presents a Jack Rollins
+m357,Charles H. Joffe Production
+m358,20th Century Fox
+m359,20th Century Fox
+m360,Paramount Pictures
+m361,Working Title Films
+m361,BBC Films
+m361,The Arts Council of England
+m362,Warner Bros.
+m363,Universal Pictures
+m364,Sogetel
+m365,Touchstone Pictures
+m366,Warner Bros. Pictures
+m366,Amblin Entertainment
+m367,Paramount Pictures
+m367,DreamWorks Pictures
+m367,Hasbro
+m368,Galatée Films
+m368,Pathé Renn Productions
+m368,France 2 Cinéma
+m368,Novo Arturo Films
+m369,Fox Searchlight Pictures
+m370,United Artists
+m371,Walt Disney Pictures
+m371,Pixar Animation Studios
+m372,Co-production France-Belgium; Nord-Ouest Production
+m372,Studio Canal
+m372,Artemis Productions
+m372,France 2 Cinema
+m372,M6 Films
+m372,Media Services
+m372,Canoe Films
+m373,Warner Bros.
+m373,Village Roadshow Pictures
+m373,3 Arts Entertainment
+m373,Viz Media
+m374,Universal Pictures
+m375,Carolco Pictures
+m376,Warner Bros. Pictures
+m376,Castle Rock Entertainment
+m377,Warner Bros. Pictures
+m378,Selznick International Pictures
+m378,Metro-Goldwyn-Mayer (MGM)
+m379,New Line Cinema
+m380,Paramount Pictures
+m381,The Weinstein Company
+m381,Relativity Media
+m382,Co-production USA-Canada-Germany; Artisan Entertainment release
+m383,20th Century Fox
+m384,Zoetrope Studios
+m384,PSO International
+m384,Totally Independent
+m385,Warner Bros.
+m386,Kim Ki-duk Film
+m387,Walt Disney Pictures
+m388,Co-production USSR-Japan; Mosfilm
+m388,Atelier 41
+m389,Walt Disney Pictures
+m389,Pixar Animation Studios
+m390,Robert Stigwood Organization (RSO)
+m390,Hemdale Film
+m391,Columbia
+m391,Hawk Films
+m392,Warner Bros
+m392,Village Roadshow Pictures
+m392,NPV Entertainment
+m392,Spring Creek Pictures
+m392,Tribeca production
+m393,Fox Searchlight Pictures
+m393,Big Beach
+m394,Hollywood Pictures
+m394,Don Simpson
+m394,Jerry Bruckheimer Films
+m395,Universal Pictures
+m395,De Haven Productions
+m396,Producciones A.S.H. Films
+m397,Universal Pictures
+m397,Original Film
+m397,Mediastream Film
+m398,Columbia Pictures
+m399,Columbia Pictures
+m399,Brillstein-Grey Entertainment
+m399,Licht
+m399,Mueller Film Corporation
+m400,Pathé Renn Productions
+m400,Hirsch
+m400,TF1 Films Production
+m400,Les Productions du Chicon
+m400,Région Nord-Pas-de-Calais
+m400,Canal +
+m400,Centre National de la Cinématographie
+m400,Cinecinema
+m401,Universal Pictures
+m401,Dreamworks Pictures
+m402,Universal Pictures
+m403,Universal Pictures
+m404,United Artists presents a Jack Rollins
+m404,Charles H. Joffe Production
+m405,Co-production Taiwan-China-Hong Kong-USA; Sony Pictures Classics
+m406,Touchstone Pictures
+m407,Metro-Goldwyn-Mayer (MGM)
+m408,Universal Pictures
+m409,The Saul Zaentz Company
+m409,Orion Pictures
+m410,DreamWorks Animation
+m410,DreamWorks SKG
+m410,Pacific Data Images (PDI)
+m411,20th Century Fox
+m411,Lightstorm Entertainment
+m411,Giant Studios Inc.
+m412,Paramount Pictures
+m412,Kingsmere Properties
+m413,Dimension Films
+m413,Troublemaker Studios
+m414,Pixar Animation Studios
+m414,Walt Disney Pictures
+m415,Columbia Pictures
+m415,Intermedia Films present a Tapestry Films
+m415,Dee Gee Entertainment
+m415,IMF
+m415,Prufrock Pictures Production
+m416,Warner Bros. Pictures
+m417,Sony Pictures
+m417,Columbia Pictures
+m417,De Line Pictures
+m418,20th Century Fox
+m419,Warner Bros
+m420,Paramount Pictures
+m421,Regency Enterprises
+m421,New Regency Pictures
+m422,Columbia Pictures
+m423,Miramax International presents a Lawrence Bender production
+m424,GK Films
+m424,Infinitum Nihil
+m424,Warner Bros. Pictures
+m425,20th Century Fox
+m425,Via Rosa Productions
+m426,20th Century Fox
+m427,Paramount Pictures
+m427,Scott Rudin Productions
+m428,Dreamworks Pictures
+m429,Offspring Entertainment
+m429,Corner Store Entertainment
+m429,Maguire Entertainment
+m430,MGM
+m430,Columbia Pictures
+m430,Albert R. Broccoli
+m430,Eon Productions
+m430,B23
+m431,DreamWorks Pictures
+m432,Universal. Producers: Alan J. Pakula & Robert Mulligan
+m433,Metro-Goldwyn-Mayer
+m434,Touchstone Pictures
+m434,Silver Screen Partners IV
+m434,Arnon Milchan Production
+m435,Columbia Pictures
+m436,Walt Disney Pictures
+m436,Jerry Bruckheimer Films
+m437,Regency Entreprises
+m438,Universal Pictures
+m439,Warner Bros. Pictures
+m440,Lionsgate
+m440,Color Force
+m441,Paramount Pictures
+m441,Art Linson Production
+m442,Columbia Pictures
+m442,Relativity Media
+m442,Happy Madison Productions
+m443,Co-production Japan-USA; Bandai Visual Company
+m443,Kodansha
+m443,Manga Video
+m443,Production I.G.
+m444,Co-production USA-UK; Warner Bros. Pictures
+m444,Tim Burton Productions
+m444,Laika Entertainment
+m444,Patalex Productions
+m444,Will Vinton Studios
+m445,Miramax Films
+m445,A Band Apart
+m446,Brownstone Productions
+m446,Gold Circle Films
+m446,Universal Pictures
+m447,TriStar Pictures presents a Clinica Estetico Productions
+m448,Orion Pictures Corporation
+m449,Paramount Pictures
+m449,Miramax
+m450,Metro-Goldwyn-Mayer
+m451,Warner Bros
+m452,Mosfilm Studios
+m453,Co-production UK
+m453,USA
+m453,Czech Republic; EON Productions
+m453,MGM
+m453,Columbia Pictures
+m454,Hollywood Pictures
+m454,Caravan Pictures
+m455,Paramount Pictures
+m456,Fox 2000 Pictures
+m456,Regency Enterprises
+m456,Linson Films
+m457,Co-production USA
+m457,Germany; MGM
+m457,UA
+m458,Touchstone Pictures
+m459,Sweetland Films
+m460,Warner Bros. Pictures
+m460,Village Roadshow Pictures
+m460,Malpaso Productions
+m460,Double Nickel Entertainment
+m461,United Artists
+m461,The Mirisch Corporation
+m462,Walt Disney Pictures
+m462,Jerry Bruckheimer Films
+m463,Castle Rock Entertainment
+m463,Nelson Entertainment
+m464,20th Century Fox presents a Centropolis Entertainment production
+m465,Sony Pictures Classic
+m465,Castle Rock Entertainment
+m466,Artisan Entertainment
+m466,Haxan Films
+m467,Co-production USA-Spain; The Weinstein Company
+m467,Gravier Productions
+m467,Mediapro
+m468,20th Century Fox
+m469,Millennium Films
+m469,Nu Image Films
+m469,Road Rebel
+m469,Rogue Marble
+m470,Fox 2000 Pictures
+m470,Temple Hill Entertainment
+m471,Polygram Filmed Entertainment
+m471,Working Title Films
+m472,Co-production Denmark-Germany-Netherlands-Italy-USA-UK-France-Sweden-Finland-Iceland-Norway; Fine Line Features
+m472,Zentropa Entertainments4
+m472,Trust Film Svenka
+m472,Liberator Production
+m472,Film I Väst
+m473,Cineguild
+m474,Stanley Kramer Productions
+m475,Universal Pictures
+m475,Spyglass Entertainment
+m475,Pit Bull Productions
+m476,Co-production France-UK; 20th Century Fox
+m476,Europa Corp.
+m476,M6 Films
+m476,Grive Productions
+m476,Canal+
+m476,TPS Star
+m477,20th Century Fox presents a Darryl F. Zanuck production
+m478,Summit Entertainment
+m478,Underground Films and Management
+m478,Independent Films
+m478,Eagle Pictures
+m478,Long Shong Entertainment Multimedia Company
+m479,Morgan Creek production
+m480,Columbia Pictures
+m480,Merchant Ivory Production
+m481,Universal Pictures
+m482,20th Century Fox
+m482,Regency Enterprises
+m483,Metro-Goldwyn-Mayer (MGM)
+m484,Warner Bros. Pictures
+m484,Castle Rock Entertainment
+m485,Warner Bros. Pictures
+m485,Plan B Entertainment
+m485,Radiant Productions
+m486,Warner Bros. Pictures
+m486,Village Roadshow Pictures
+m486,NPV Entertainment
+m487,Walt Disney Pictures
+m488,Coproduction USA-Spain-France; Gravier Productions
+m488,Mediapro
+m488,Televisió de Catalunya (TV3)
+m488,Versátil Cinema
+m488,Pontchartrain Productions
+m489,Metro-Goldwyn-Mayer (MGM); Producer: Joseph L. Mankiewicz
+m490,Compañía de Aventuras Comerciales
+m490,TVE
+m490,Paraíso
+m491,Screen Gems
+m491,Ska Films
+m492,BBC Films
+m492,Endgame Entertainment
+m492,Finola Dwyer Productions
+m492,Wildgaze Films
+m493,Warner Bros
+m493,Malpaso Company
+m494,Malpaso Company
+m494,Warner Bros. Pictures
+m495,Dreamworks Pictures
+m496,Revolution Studios
+m497,Warner Bros. Pictures
+m498,Zentrope Entertainment
+m499,Co-production West Germany-USA; NNeue Constantin Film
+m499,Bavaria Studios
+m499,Westdeutscher Rundfunk (WDR)
+m500,MGM
+m501,Carolco Pictures
+m501,Pacific Western
+m501,Lightstorm Entertainment
+m501,Columbia TriStar
+m502,Co-production Germany-USA; Centropolis Entertainment
+m502,Columbia Pictures
+m503,New Line Cinema
+m503,Capella International
+m504,Telecinco
+m504,Vía Digital
+m504,Zebra Producciones S.A.
+m505,United Artists
+m506,MGM
+m506,UA
+m506,Act III Communications
+m507,Paramount Pictures
+m508,Universal Pictures
+m508,The Rank Organisation
+m508,Act III Communications
+m508,Electric Shadow Productions
+m508,Avnet
+m508,Kerner Productions
+m509,Paramount Pictures
+m510,Focus Features
+m510,American Zoetrope
+m510,Elemental Films
+m511,Metro-Goldwyn-Mayer
+m512,MGM
+m513,Warner Bros. Pictures
+m514,20th Century Fox
+m514,New Regency Pictures
+m514,Regency Enterprises
+m515,Columbia Pictures presents a Mirage
+m515,Punch Production
+m516,Columbia Pictures
+m517,Co-production USA-Germany; Warner Bros. Pictures
+m517,Regency Enterprises
+m517,Atlas Entertainment
+m517,Taurus Film
+m517,Monarchy Enterprises
+m518,20th Century Fox
+m518,Brandywine Productions
+m519,Miramax International
+m519,Mario & Vittorio Cecchi Gori
+m519,Melampo Cinematografica
+m520,20th Century Fox
+m520,Miramax
+m520,Universal Pictures
+m521,DreamWorks Pictures
+m521,Paramount Pictures
+m521,Amblin Entertainment
+m521,Cruise-Wagner Production
+m522,Ciby 2000
+m522,Jan Chapman Productions
+m523,Warner Bros. Pictures
+m524,Produzioni De Sica (PDS)
+m525,DreamWorks Animation
+m525,Pacific Data Images (PDI)
+m526,20th Century Fox
+m527,New Line Cinema
+m528,New Line Cinema
+m529,Walt Disney
+m530,Universal Pictures
+m531,20th Century Fox
+m532,Metrofilm
+m533,20th Century Fox presents a New Regency production
+m534,HandMade Films
+m535,Paramount Vantage
+m536,Pixar Animation Studios
+m536,Walt Disney Pictures
+m537,TriStar Pictures
+m537,Columbia Pictures
+m537,Bedford Falls Productions
+m538,New Line Cinema
+m538,Flower Films
+m539,MGM
+m540,RKO
+m540,Mercury Theatre Productions
+m541,Guangxi Film Studios. Columbia Pictures released
+m542,Walt Disney Pictures
+m542,Jerry Bruckheimer Films
+m543,Fox Searchlight Pictures
+m543,Mandate Pictures
+m543,Mr. Mudd
+m544,Universal Pictures
+m544,Chernin Enterntainment
+m545,Co-production Australia-USA; Kennedy Miller Productions
+m545,Icon Productions
+m546,Fox 2000 Pictures
+m546,Haishang Films
+m547,Universal Pictures
+m548,Universal Pictures
+m549,Focus Features
+m549,Laika Entertainment
+m549,Pandemonium
+m550,Gaumont
+m550,Les Films du Dauphin production
+m551,Paramount Pictures
+m552,Touchstone Pictures
+m552,Blinding Edge Pictures
+m552,Scott Rudin Productions
+m553,New Line Cinema
+m553,Amen Ra Films
+m554,Touchstone Pictures
+m554,Don Simpson
+m554,Jerry Bruckheimer Production
+m554,Scott Free Production
+m555,MGM
+m556,Co-production USA-UK; Universal Pictures
+m557,Universal Pictures
+m558,Miramax Films
+m559,Warner Bros. Pictures
+m560,American Broadcasting Company (ABC)
+m560,Jack Rollins & Charles H. Joffe Productions
+m560,Palomar Pictures International
+m561,Warner Bros.
+m562,Walt Disney Pictures
+m563,Walt Disney
+m564,IFC Films presents a Flower Films production
+m565,Touchstone Pictures
+m565,Jerry Bruckheimer Films
+m566,Paramount Pictures
+m567,Studio Ghibli
+m568,20th Century Fox
+m568,Blue Sky Studios
+m568,Fox Animation Studios
+m569,Universal Pictures
+m570,DreamWorks Animation
+m570,Pacific Data Images (PDI)
+m571,20th Century Fox
+m572,DreamWorks Pictures
+m572,Paramount Pictures
+m573,Co-production USA-Japan; 20th Century Fox
+m573,Dune Entertainment
+m573,Star Overseas
+m574,Warner Bros. Pictures
+m574,Odyssey Entertainment
+m575,Touchstone Pictures
+m576,Illumination Entertainment
+m576,Universal Pictures
+m577,Universal Pictures
+m577,Amblin Entertainment
+m578,Columbia Pictures
+m578,Warner Bros. Pictures
+m579,Republic Pictures
+m580,New Line Cinema
+m581,20th Century Fox
+m581,Dreamworks Pictures
+m582,Columbia Pictures
+m583,Warner Bros. Pictures
+m583,Vertigo DC Comics
+m583,Silver Pictures
+m584,Focus Features
+m584,River Road Entertainment
+m584,Good Machine
+m584,Alberta Filmworks
+m585,Universal Pictures
+m585,City Light Films
+m586,Warner Bros.
+m586,Icon
+m587,Universal Pictures
+m588,Paramount Pictures
+m588,Polygram Pictures; Producers: Don Simpson & Jerry Bruckheimer
+m589,Channel One Russia
+m589,Bazelevs Production
+m590,Co-production UK-USA; Intermedia Films
+m590,Outlaw Productions
+m590,Love Spell Entertainment
+m591,20th Century Fox
+m592,Co-production Australia-USA; Warner Bros. Pictures presents a Kingdom Feature Productions
+m592,Kennedy Miller Productions
+m592,Village Roadshow Pictures
+m593,Columbia Pictures
+m593,Universal Pictures
+m594,Pixar Animation Studios
+m594,Walt Disney Pictures
+m595,New Line Cinema
+m595,Killer Films
+m596,Warner Bros
+m596,The Malpaso Company
+m597,Co-production Spain-UK; Granada International
+m597,Zinkia Entertainment
+m598,RKO Radio Pictures
+m599,Warner Bros. Pictures
+m599,Village Roadshow Pictures
+m600,DreamWorks Pictures
+m600,Warner Bros. Pictures
+m601,20th Century Fox
+m601,Brandywine Productions
+m602,RKO presents a Liberty Films Inc. Production
+m603,Universal Pictures
+m603,Studiocanal
+m603,Working Title Films
+m604,Edward R. Pressman Production
+m604,Dino de Laurentiis Productions
+m605,Romaine Film
+m605,Alexander Korda
+m606,Paramount Pictures
+m606,Amblin Entertainment
+m606,Bad Robot
+m606,Relativity Media
+m607,Warner Bros. Pictures
+m607,Village Roadshow Pictures
+m607,NPV Entertainment
+m607,Castle Rock Entertainment
+m608,Yari Film Group
+m608,Bob Yari Productions
+m608,Contagious Entertainment
+m608,Michael London Productions
+m608,Stillking Films
+m609,The Mirisch Corporation
+m609,Mahin-Rackin
+m609,United Artists
+m610,Metro-Goldwyn-Mayer
+m611,Metro-Goldwyn-Mayer (MGM)
+m611,United Artists
+m612,New Line Cinema
+m613,Warner Bros. Pictures
+m613,Castle Rock Entertainment present a Playtone
+m613,Imagemovers
+m613,Golden Mean production
+m614,Paramount Pictures
+m615,Columbia Pictures
+m616,Lionsgate
+m616,Grosvenor Park Media
+m617,20th Century Fox
+m618,Constantin Film Produktion
+m618,Rat Pack Filmproduktion
+m618,Medienfonds GFP
+m619,Metro-Goldwyn-Mayer
+m619,Orion-Nova Productions
+m620,Co-production UK-USA; BBC Films
+m620,DreamWorks Pictures
+m621,20th Century Fox
+m622,Fox 2000 Pictures
+m623,MGM
+m624,Paramount Pictures
+m625,BBC Films
+m625,Focus Features
+m625,Ruby Films
+m626,Telespan 2000
+m626,Telecinco
+m627,Universal Pictures
+m627,Scott Free Productions
+m627,Imagine Entertainment
+m628,Warner Bros.
+m628,Syncopy
+m628,Paramount Pictures
+m628,Legendary Pictures
+m628,Lynda Obst Productions
+m629,RKO
+m630,New Line Cinema
+m631,Lions Gate Films
+m632,20th Century Fox
+m632,Brandywine Productions
+m633,Paramount Pictures
+m634,Pandora Films
+m634,JVC
+m634,Newmarket Capital Group
+m635,Universal Pictures
+m635,Amblin Entertainment
+m636,20th Century Fox
+m636,Lucasfilm Ltd. Production
+m637,Warner Bros. Pictures
+m637,Tig Productions
+m637,Kasdan Productions
+m637,Paragon Entertainment Corporation
+m638,Touchstone Pictures
+m639,Anglo Enterprises
+m639,Vineyard Film
+m640,Touchstone Pictures
+m641,Paramount Pictures
+m642,Manga Films
+m643,Co-production USA-UK-Germany-Netherlands; Sidney Kimmel Entertainment
+m643,Parabolic Pictures Inc.
+m643,VIP 2 Medienfonds
+m644,Sogecine
+m644,Películas Pendelton
+m645,Warner Bros
+m646,Co-production UK-Ireland-USA; Beacon Communications; A 20th Century Fox release
+m647,Touchstone Pictures
+m647,Walt Disney Pictures
+m647,Jerry Bruckheimer Films
+m648,Walt Disney Pictures
+m648,Pixar Animation Studios
+m649,Samson Films
+m649,Summit Entertainment
+m649,RTE
+m650,United Artists
+m651,Paramount Pictures
+m652,Miramax Films
+m652,Universal Pictures
+m652,Studiocanal present a Working Title Production
+m653,Co-production UK-USA; Heyday Films
+m653,BBC Films
+m653,Miramax Films
+m654,Caméra One
+m654,CNC
+m654,Hachette Première
+m654,UGC
+m654,DD Productions
+m654,Films A2
+m654,Investors Club
+m654,Sofinergie 1
+m655,Co-production UK-USA-France; Universal Pictures
+m655,Working Title
+m656,Paramount Pictures presents a Francis Ford Coppola Production
+m657,Co-production USA-UK; Warner Bros. Pictures
+m657,PolyGram Filmed Entertainment
+m658,Dimension Films Released. The Kushner-Locke Company
+m658,Capitol Films
+m659,Telespan 2000
+m660,Co-production France-USA; 2003 Productions
+m660,Warner Bros. Pictures
+m661,New Line Cinema
+m662,Co-production USA-Gerrmany-Czech Republic-UK; Angry Films
+m662,International Production Company
+m662,JD Productions
+m662,Mediastream Dritte Film GmbH & Co. Beteiligungs KG
+m662,Twentieth Century-Fox Film Corporation
+m663,Warner Bros. Pictures
+m664,New Line Cinema
+m665,Cube Libre
+m665,The Feature Film Project
+m665,The Harold Greenberg Fund
+m665,Odeon Films
+m665,Ontario Film Development Corporation
+m665,Téléfilm Canada
+m665,Viacom Canada
+m666,Universal Pictures
+m667,Universal Pictures
+m668,Paramount Pictures
+m669,United Artists presents a Jack Rollins
+m669,Charles H. Joffe Production
+m670,Columbia Pictures
+m670,Sony Pictures Animation
+m671,Walt Disney Pictures
+m671,Pixar Animation Studios
+m672,Miramax International
+m672,View Askew Productions
+m673,Warner Bros Pictures
+m673,Stanley Kubrick Production
+m674,Universal Pictures
+m675,Co-production USA-Germany; Universal Pictures
+m675,The Weinstein Company
+m675,Lawrence Bender Productions
+m675,Neunte Babelsberg Film
+m676,Artisan Entertainment
+m676,Thousand Words
+m677,Warner Bros. Pictures
+m677,Carousel Productions
+m678,20th Century Fox
+m679,20th Century Fox
+m680,Columbia Pictures
+m681,Universal Pictures
+m681,Capcom Entertainment
+m682,New Line Cinema
+m682,Wingnut Films
+m683,United Artists
+m684,United Artists
+m685,Paramount Pictures
+m686,Paramount Pictures
+m687,Pixar Animation Studios
+m687,Walt Disney Pictures
+m688,Co-producton France-USA
+m689,Co-production Canada-South Africa-UK-Italia; Lions Gate Films
+m689,United Artists
+m690,Co-production South Africa-New Zealand; Wingnut Films
+m690,Key Creatives
+m690,QED International
+m690,Sony Pictures
+m690,Tristar Pictures
+m691,Warner Bros.
+m692,Co-production Japan-USA; Studio Ghibli
+m692,Tokuma Shoten
+m692,Dentsu
+m692,Walt Disney Pictures
+m693,United Artists
+m694,Co-production USA-UK; Artista Management
+m694,Ladbroke
+m694,Metro-Goldwyn-Mayer (MGM)
+m694,Peerford Ltd.
+m695,Warner Bros. Pictures
+m696,Twisted Pictures
+m697,20th Century Fox
+m697,Marvel Entertainment Group
+m698,Columbia Pictures
+m698,American Zoetrope
+m698,Osiris Films
+m699,Co-production UK-USA; Lionsgate Films
+m699,Marv Films
+m699,Plan B Entertainment
+m700,Lions Gate Films
+m700,Lakeshore Entertainment
+m701,Co-production France-Germany-Austria; Les Films du Losange
+m701,X-Filme Creative Pool
+m701,Wega Film
+m701,France 3 cinéma
+m701,ARD degeto
+m701,Bayerischer Rundfunk
+m701,Westdeutscher Rundfunk
+m701,Canal +
+m701,France télévisions
+m702,Altavista Films
+m702,Zeta Film
+m703,Co-production Canada-France; TF1 International
+m704,Miramax Films
+m705,Paramount Pictures
+m706,20th Century Fox
+m707,Telespan 2000
+m707,Estudios Picasso
+m708,Columbia Pictures
+m709,Universal Pictures
+m710,Columbia Pictures
+m711,20th Century Fox presents a Gordon Company
+m711,Silver Pictures production
+m712,Pixar Animation Studios
+m712,Walt Disney Pictures
+m713,Metro-Goldwyn-Mayer
+m714,Orion Pictures
+m715,Universal Pictures
+m716,Mosfilm Studios
+m717,20th Century Fox
+m718,Sony Pictures Entertainment
+m718,Sony Music Entertainment
+m718,AEG Live
+m719,20th Century Fox presents a Michael White
+m719,Lou Adler Production
+m720,20th Century Fox
+m721,Hollywood Pictures. Andrew G. Vajan presents a Cinergi Production
+m722,Universal Pictures
+m722,Working Title Films
+m722,Translux
+m723,Miramax
+m724,20th Century Fox
+m725,Columbia Pictures
+m726,Metro-Goldwyn-Mayer (MGM)
+m726,UA
+m727,Walt Disney Pictures
+m728,Dimension Films
+m729,United Artists
+m730,Warner Bros. Pictures
+m731,20th Century Fox
+m731,Dune Entertainment
+m731,Chernin Entertainment
+m732,20th Century Fox
+m733,United Artists
+m733,The Mirisch Corporation
+m734,West Film
+m734,AVCO Embassy Pictures
+m735,Amiguetes Entertainment
+m736,Warner Bros. Pictures
+m736,Heyday Films
+m737,Metro-Goldwyn-Mayer
+m738,Walt Disney Pictures
+m738,Walt Disney Feature Animation
+m739,20th Century Fox
+m740,Columbia Pictures
+m740,Devon
+m740,Persky-Bright
+m740,Allied Artists Pictures
+m741,DreamWorks Pictures
+m741,Warner Bros. Pictures
+m742,Walt Disney Pictures
+m743,Geffen Pictures
+m743,Silver Pictures
+m744,Paramount Pictures
+m744,Albert S. Ruddy Production
+m745,Lionsgate
+m746,Columbia Pictures
+m746,DreamWorks
+m746,Spyglass Entertainment
+m746,Amblin Entertainment
+m747,United Artists
+m748,El Deseo S.A.
+m749,Paramount Pictures
+m749,20th Century Fox
+m749,Lightstorm Entertainment
+m750,Metro-Goldwyn-Mayer
+m751,Warner Bros. Pictures
+m752,RKO Radio Pictures
+m753,LightBox Entertainment
+m753,Toro Pictures
+m753,IkiruFilms
+m753,StudioCanal
+m754,Dreamworks
+m754,Paramount
+m754,Amblin Entertainment
+m755,Warner Bros. Pictures
+m756,MGM
+m757,MGM
+m757,UA
+m758,Allied Artists
+m759,20th Century Fox
+m760,Co-production Canada-Germany-USA; AITD Productions
+m760,Boll Kino Beteiligungs GmbH & Co. KG
+m760,Herold Productions
+m760,Brightlight Pictures
+m760,Infogrames Entertainment
+m760,Lions Gate Films
+m761,Universal Pictures
+m762,Paramount Pictures
+m762,Red Granite Pictures
+m762,Appian Way
+m763,Miramax International
+m763,A band Apart
+m763,Los Hooligans Productions
+m764,Columbia Pictures
+m764,Casablanca Filmworks
+m765,Co-production UK-USA; Warner Bros. Pictures
+m765,Heyday Films
+m765,1492 Pictures production
+m766,The Weinstein Company
+m766,Exclusive Media
+m767,Metro-Goldwyn-Mayer
+m768,Paramount Pictures
+m768,Paramount Vantage
+m768,Summit Entertainment
+m768,Anonymous Content
+m769,Walt Disney Pictures
+m769,Pixar Animation Studios
+m770,Co-production Spain-UK-USA; HandMade Films
+m770,Ilion Animation
+m770,Lolafilms
+m770,Nickelodeon Animation Studios
+m770,Worldwide Biggies
+m771,Polygram Filmed Entertainment
+m771,Interscope Communications
+m772,TriStar Pictures
+m773,Metro-Goldwyn-Mayer
+m774,Independent Producers
+m775,Co-production Spain-Germany; Marea Films
+m775,Asegarce Zinema
+m775,Road Movies Britte Produktionen
+m775,MGN Filmes
+m776,Fox 2000 Pictures
+m776,Spyglass Entertainment
+m777,Warner Bros
+m778,Amiguetes Entertainment
+m779,DreamWorks
+m780,Allied Filmmakers
+m780,Cinergi Pictures Entertainment
+m780,Hollywood Pictures
+m780,Lightmotive
+m780,Nintendo
+m781,Channel Four Films
+m781,Redwave Films
+m781,Twentieth Century Fox
+m782,20th Century Fox
+m782,Zucker Brothers
+m783,Republic Pictures
+m784,Co-production USA-Australia; Castle Rock Entertainment
+m784,Village Roadshow Pictures
+m784,NPV Entertainment
+m785,WT² production
+m785,Big Talk Productions
+m785,Universal Pictures
+m786,Walt Disney Productions
+m787,Paramount Pictures
+m788,Focus Features presents a This is That
+m788,Y Productions
+m789,Miramax Films
+m789,View Askew Productions
+m790,Warner Bros. Pictures
+m791,Paramount Pictures
+m792,Co-production USA-UK; Warner Bros. Pictures
+m792,Legendary Pictures
+m793,Working Title Films
+m793,Big Talk Productions
+m793,Studio Canal
+m794,Co-production Australia-USA; Bazmark Films
+m794,Twentieth Century-Fox
+m795,Paramount Pictures
+m795,Village Roadshow Productions
+m795,VH1
+m795,NPV Entertainment
+m795,Red Hour
+m796,Co-production UK-USA; Aardman Animations
+m796,DreamWorks Animation
+m797,20th Century Fox
+m798,United Artists
+m799,Walt Disney Pictures
+m800,Ganesh
+m801,20th Century Fox
+m802,Warner Bros. Pictures
+m802,Esperanto Filmoj
+m802,Heyday Films
+m803,Paramount Pictures
+m803,Lucasfilm Ltd.
+m804,Morgan Creek
+m805,Co-production GB-USA; Thorn EMI Screen Entertainment
+m805,Highlander Productions Limited
+m806,Walt Disney Pictures
+m807,Twentieth Century Fox Film Corporation
+m807,Conundrum Entertainment
+m808,Sony Pictures Worldwide Acquisitions (SPWA)
+m808,Annapurna Pictures
+m809,Falling Sky Entertainment
+m810,Touchstone Pictures presents a Jerry Bruckheimer production
+m811,Studio Ghibli
+m811,DENTSU Music And Entertainment
+m811,Nibariki
+m811,Nippon Television Network Corporation (NTV)
+m811,TNDG
+m811,Tokuma Shoten
+m812,Walt Disney
+m813,Miramax Films
+m813,Universal Pictures
+m813,The Bedford Falls Company
+m814,Co-production France-Germany; Madeleine Films
+m814,Parc Film
+m814,Beta Film GmbH
+m815,Zenith Productions
+m815,Killer Films Production
+m815,Single Cell Pictures
+m816,Metro-Goldwyn-Mayer (MGM)
+m817,Walt Disney
+m818,Paramount Pictures
+m819,Columbia Pictures presents a Marvel Entertainment
+m820,Miramax
+m820,Alliance Atlantis Communications
+m820,Tapestry Films
+m821,Jersey Films
+m821,Columbia Pictures
+m822,Columbia Pictures
+m823,Columbia Pictures
+m824,Rampart Productions
+m824,Universal Pictures
+m825,Walt Disney
+m826,United Artists
+m827,MGM
+m828,Paramount Pictures
+m829,Paramount Pictures
+m830,Universal Pictures
+m831,Co-production USA-UK; United Artists
+m831,Romulus
+m831,Horizon Production
+m832,Paramount Pictures
+m833,Walt Disney Animation Studios
+m833,Walt Disney Pictures
+m834,Fox Searchlight Pictures
+m835,Universal Pictures
+m835,Malpaso Company
+m836,Walt Disney Feature Animation
+m837,Metro-Goldwyn-Mayer (MGM)
+m837,New Line Cinema
+m837,WingNut Films
+m838,Co-production UK-USA; BBC Films
+m838,Focus Features
+m838,Ingenious Film Partners
+m839,Carolco Pictures
+m839,Orion Pictures
+m839,Roadshow
+m840,Universal
+m841,Columbia Pictures
+m842,Walt Disney Animation Studios
+m842,Walt Disney Pictures
+m843,Iberoamericana
+m843,Sogetel
+m844,TriStar Pictures
+m845,United Artists
+m846,Co-production Brazil-USA-Argentina; Zazen Produções
+m846,Feijão Filmes
+m846,Weinstein Company
+m846,Estúdios Mega
+m846,Quanta CPC
+m846,Universal Pictures do Brasil
+m846,Costa Films
+m847,Bad Robot
+m847,Skydance
+m847,Paramount Pictures
+m848,Warner Bros. Pictures
+m848,New Line Cinema
+m848,Groundswell Productions
+m849,Sony Pictures
+m849,The Weinstein Company
+m850,20th Century Fox
+m851,Summit Entertainment
+m851,Imprint Entertainment
+m851,Troy Rodriguez Productions
+m852,Columbia Pictures
+m853,Warner Bros
+m853,Village Roadshow Pictures
+m853,Groucho II Film Partnership
+m854,20th Century Fox
+m855,MGM
+m856,Walt Disney
+m857,Warner Bros. Pictures
+m858,Sogecine
+m858,Himenóptero
+m858,UGC Images
+m858,Eyescreen
+m859,Co-production UK-USA; The Jim Henson Company
+m859,Lucasfilm
+m859,TriStar Pictures
+m859,Henson Associates (HA)
+m859,Delphi V Productions
+m860,Universal Pictures
+m861,Columbia Pictures
+m861,EMI Films
+m861,Phillips Productions
+m862,Co-production USA-UK; Warner Bros. Pictures
+m863,Co-production USA-New Zealand; New Line Cinema
+m864,20th Century Fox
+m865,Warner Bros. Pictures
+m865,Bel-Air Entertainment
+m866,Working Title Films
+m867,Co-production Hong Kong
+m867,China
+m867,France; Block 2 Pictures
+m867,Jet Tone Production
+m867,Lou Yi Ltd.
+m867,Studio Canal
+m868,Co-production Italy-Spain; B.R.C. Produzione S.r.l.
+m868,Tecisa
+m869,Lorimar Film Entertainment
+m869,Paramount Pictures
+m870,20th Century Fox
+m870,Blue Sky Studios
+m871,Metro-Goldwyn-Mayer
+m872,Co-Production UK-USA; Warner Bros. Pictures
+m872,Heyday Films
+m872,1492 Pictures
+m873,Screen Gems
+m873,Relativity Media
+m874,Columbia Pictures (Horizon Pictures Production)
+m875,20th Century Fox
+m876,Co-production Italy-Spain-Germany
+m877,Touchstone Pictures
+m877,Paramount Pictures
+m878,Twentieth Century Fox Film Corporation
+m879,Sony Pictures Classics
+m879,Liberty Films UK
+m880,Co-production Spain-Canada; El Deseo S.A.
+m880,Milestone Productions Inc.
+m881,Channel Four Films
+m881,Figment Film
+m881,The Noel Gay Motion Picture Company
+m882,Revolution Studios
+m882,Columbia Pictures
+m883,Co-production USA-New Zealand; Universal Pictures
+m883,WingNut Films
+m884,20th Century Fox
+m885,Universal Pictures
+m886,Paramount Vantage
+m886,River Road Entertainment
+m887,Imperial Entertainment Corp.
+m887,WestWind Pictures
+m888,Walt Disney
+m889,Hollywood Pictures
+m889,Summit Entertainment
+m889,Cinergi
+m890,Miramax Films
+m890,A Band Apart
+m891,Alquimia Cinema
+m891,Castafiore Films
+m892,Columbia Pictures
+m893,Sogetel
+m893,Películas Pendelton
+m894,Sweetland Films
+m894,Miramax International
+m895,20th Century Fox
+m895,Silver Pictures
+m896,Co-production USA-UK; Warner Bros. Pictures
+m896,Legendary Pictures
+m896,Syncopy Production
+m897,TriStar Pictures
+m897,Gracie Films
+m898,Columbia Pictures
+m899,Samuel Goldwyn Company
+m900,Co-production UK-Japan-USA; Universal Pictures
+m900,Strike Entertainment
+m900,Hit & Run Productions
+m900,Ingenious Film Partners
+m900,Toho-Towa
+m901,MGM presents a Carlo Ponti production
+m902,20th Century Fox
+m903,Walt Disney Animation Studios
+m904,Focus Features
+m905,Warner Bros.
+m905,Amblin Entertainment
+m905,Malpaso Productions
+m906,Columbia Pictures
+m906,Relativity Media
+m906,Pariah
+m907,Paramount Pictures
+m907,Skydance Productions
+m907,Scott Rudin Productions
+m908,Warner Bros. Pictures
+m908,Legendary Pictures
+m908,Green Hat Films
+m909,Franchise Pictures
+m909,Jonathan D. Krane
+m909,JTP Films
+m910,20th Century Fox
+m911,Blue Sky Studios
+m911,Twentieth Century Fox
+m912,Warner Bros. Pictures
+m913,Walt Disney Pictures
+m913,Jerry Bruckheimer Films
+m914,Metro-Goldwyn-Mayer
+m915,20th Century Fox
+m915,Lightstorm Entertainment
+m916,Walt Disney
+m917,Carolco
+m918,DreamWorks Animation
+m918,Mad Hatter Entertainment
+m918,Vertigo Entertainment
+m919,Grand Army Entertainment
+m919,Inferno Distribution
+m919,Shochiku Kinema Kenkyû-jo
+m920,Universal Pictures
