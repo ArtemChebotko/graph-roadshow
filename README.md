@@ -17,7 +17,7 @@ This repo contains a _KillrVideoGraph_ data set and DataStax Studio notebooks th
 At the Workshop, we used DataStax Graph 6.8 and DataStax Studio 6.8 that are available at [DataStax Labs](https://downloads.datastax.com/#labs).
 
 1. Download and extract the DataStax Graph (DSG) archive from [DataStax Labs](https://downloads.datastax.com/#labs) - it contains both DataStax Graph 6.8 and DataStax Studio 6.8 distributions.
-2. Modify _dse.yaml_ to reflect the following settings:
+2. Modify _dse.yaml_ (e.g. `resources/dse/conf/dse.yaml`) to reflect the following settings:
   - Enable AlwaysOn SQL to be able to execute SQL queries
 ```
   alwayson_sql_options:
