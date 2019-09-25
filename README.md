@@ -18,7 +18,7 @@ At the Workshop, we used DataStax Graph 6.8 and DataStax Studio 6.8 that are ava
 
 1. Download and extract the DataStax Graph (DSG) archive from [DataStax Labs](https://downloads.datastax.com/#labs) - it contains both DataStax Graph 6.8 and DataStax Studio 6.8 distributions.
 2. Modify _dse.yaml_ to reflect the following settings:
-  - Enable AlwaysOn SQL
+  - Enable AlwaysOn SQL to be able to execute SQL queries
 ```
   alwayson_sql_options:
     # Set to true to enable the node for AlwaysOn SQL. Only an Analytics node
