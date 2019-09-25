@@ -91,4 +91,5 @@ graph:
 #                     sandbox_rules:
 ```
 3. Start DataStax Graph with Search and Analytics enabled: e.g. `bin/dse cassandra -s -k -g`.
-4. Start DataStax Studio: e.g. `bin/server.sh`
+4. Start DataStax Studio: e.g. `bin/server.sh`.
+5. Open a Web browser and navigate to `localhost:9091` to access DataStax Studio. Import the notebooks from this repo. The notebooks expect the data to be located at `/var/lib/graph/killr_video_graph.json`. Enjoy!
