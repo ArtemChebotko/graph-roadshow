@@ -13,9 +13,9 @@ This repo contains a _KillrVideoGraph_ data set and DataStax Studio notebooks th
 - `notebooks/Hands-On_Lab_on_Gremlin_Graph_Traversals_with_answers.studio-nb.tar` is a hands-on notebook with Gremlin examples,  problems and solutions that can be imported into DataStax Studio 6.8.
 
 ## All-Inclusive Container for Docker
-By provisioning this container, you can get a running environment complete with DataStax Graph 6.8, DataStax Studio 6.8, data set, and notebooks. *Coming soon*
+By provisioning this container, you can get a running environment complete with DataStax Graph 6.8, DataStax Studio 6.8, data set, and notebooks. *Coming soon*.
 
-## Environment Requirements for Your Own Deployment
+## Requirements for Your Own Deployment
 
 At the Workshop, we used DataStax Graph 6.8 and DataStax Studio 6.8 that are available at [DataStax Labs](https://downloads.datastax.com/#labs).
 
