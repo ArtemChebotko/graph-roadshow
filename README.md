@@ -15,17 +15,17 @@ This repo contains a _KillrVideoGraph_ data set and DataStax Studio notebooks th
 ## All-Inclusive Image for Docker
 This image can quickly get you a running environment complete with DataStax Graph 6.8, DataStax Studio 6.8, data set, and notebooks. _Minimum resource requirements_ for [Docker](https://docs.docker.com) Engine: `6` CPUs and `8.0` GiB Memory (can be conveniently set in Docker Desktop > Preferences > Advanced).
 
-1. Create a container based on the image
+1. Create a container based on the image (port 80 needs to be available)
 ```
    docker run -p 80:80 datastaxacademy/graph-roadshow:6.8
 ```
 2. Access the notebooks in DataStax Studio by going to `localhost` in a web browser (preferably Chrome)
 
-3. Get the container ID and stop/start the container as needed
+3. Get the container ID to be able to stop/start the container
 ```
    docker ps --all
-   CONTAINER ID        IMAGE                                ...
-   b4dd02fe403e        datastaxacademy/graph-roadshow:6.8   ...
+     CONTAINER ID        IMAGE                                ...
+     b4dd02fe403e        datastaxacademy/graph-roadshow:6.8   ...
    
    docker stop b4dd02fe403e
    
