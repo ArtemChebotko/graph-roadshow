@@ -34,9 +34,9 @@ This repo contains a _KillrVideoGraph_ data set and DataStax Studio notebooks th
 
 4. Remove the container when no longer needed
 ```
-docker stop b4dd02fe403e
+   docker stop b4dd02fe403e
 
-docker rm b4dd02fe403e
+   docker rm b4dd02fe403e
 ```
 
 ## Requirements for Your Own Deployment
